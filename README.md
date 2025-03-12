@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22445
-Fork on GitHub
-7338
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Jimoh Olamide</h1>
 <h3 align="center">Nigerian Full-Stack Developer, Designer and Video Editor.</h3>
 
